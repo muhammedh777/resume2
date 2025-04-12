@@ -4,6 +4,13 @@ function Resume() {
   return (
     <div className="resume-container">
       <header>
+        <div className="avatar-container">
+          <img
+            src="https://i.postimg.cc/gjFzn9BD/IMG-0007.jpg"
+            alt="Avatar"
+            className="avatar"
+          />
+        </div>
         <h1>Muhammed Halilov</h1>
         <p>Frontend - Разработчик</p>
         <p>
